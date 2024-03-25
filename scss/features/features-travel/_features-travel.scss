@@ -1,0 +1,27 @@
+.round {
+    height: $round-md;
+    width: $round-md;
+}
+.features{
+    &::before{
+        content: '';
+        position: absolute;
+        width: 647px;
+        height: 647px;
+        left: -149px;
+        bottom: 0;
+        background: $light-primary;
+        filter: blur(250px);
+    }
+}
+.features-slider{
+    .owl-carousel{
+        .owl-nav{
+            button{
+                &:hover{
+                    background: transparent;
+                }
+            }
+        }
+    }
+}

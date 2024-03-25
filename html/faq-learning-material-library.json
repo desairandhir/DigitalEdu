@@ -1,0 +1,54 @@
+
+[
+    {
+        "Question_ID": 1,
+        "Questions": "What is the Learning Material Library Module?",
+        "Answers": "The Learning Material Library Module is a user-friendly and comprehensive solution designed to centralize, manage, and provide easy access to a diverse range of educational content, enhancing the overall learning experience."
+    },
+    {
+        "Question_ID": 2,
+        "Questions": "What are the benefits of using the Learning Material Library Module?",
+        "Answers": "The Learning Material Library Module offers various advantages, including: Streamlined organization of educational resources, Easy navigation for users, Enhanced accessibility to quality learning materials, and Simplified management for educational institutions."
+    },
+    {
+        "Question_ID": 3,
+        "Questions": "What types of educational resources does the module support?",
+        "Answers": "The module supports a variety of educational resources, such as: Digital textbooks, Video lectures, Interactive quizzes and assessments, Research papers, and Collaborative tools for group projects."
+    },
+    {
+        "Question_ID": 4,
+        "Questions": "How secure is the Learning Material Library Module?",
+        "Answers": "Security is a top priority for our module. It employs robust features, including secure data storage, role-based access controls, routine security assessments, and compliance with industry standards to safeguard educational information."
+    },
+    {
+        "Question_ID": 5,
+        "Questions": "What are the system requirements for the Learning Material Library Module?",
+        "Answers": "The Learning Material Library Module has minimal system requirements and is compatible with most modern web browsers. Mobile apps may be available for convenient access on iOS and Android devices."
+    },
+    {
+        "Question_ID": 6,
+        "Questions": "How do I integrate the module with my existing educational tools and platforms?",
+        "Answers": "Our module supports seamless integration, offering options like: APIs for connectivity, Pre-built integrations with common learning management systems (LMS), and Customized solutions to meet specific institutional needs."
+    },
+    {
+        "Question_ID": 7,
+        "Questions": "What kind of training and support is available for the Learning Material Library Module?",
+        "Answers": "We provide comprehensive training and support resources, including: Online training sessions, User-friendly guides and documentation, Video tutorials, Live chat, and Email support to ensure effective implementation and usage."
+    },
+    {
+        "Question_ID": 8,
+        "Questions": "How much does the Learning Material Library Module cost?",
+        "Answers": "The cost of the module depends on institutional requirements and usage. For a personalized quote, please reach out to our sales team."
+    },
+    {
+        "Question_ID": 9,
+        "Questions": "Can I try the Learning Material Library Module before making a purchase?",
+        "Answers": "Absolutely! We offer a free trial period so that educators can experience the module's features and benefits firsthand."
+    },
+    {
+        "Question_ID": 10,
+        "Questions": "How do I get started with the Learning Material Library Module?",
+        "Answers": "To learn more and schedule a demonstration, please contact our team. We'll guide you through the onboarding process and showcase the features of the Learning Material Library Module."
+    }
+]
+

@@ -1,0 +1,25 @@
+.specialities{
+    max-width: 1600px;
+    .specialities-slider{
+        .owl-stage-outer{
+            .owl-stage{
+                .owl-item{
+                    .item{
+                        .red-abstract, .blue-abstract{
+                            top: 0;
+                            right: 20px;
+                        }
+                        .yellow-abstract{
+                            right: 0;
+                            top: 60px;
+                        }
+                        .green-abstract{
+                            left: 0;
+                            top: -20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

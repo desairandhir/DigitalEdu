@@ -1,0 +1,11 @@
+.estate-summary-bg {
+    background: linear-gradient(to right, $white 0%, $white 50%, $primary 50%, $primary 100%);
+
+    @include media-breakpoint-down (lg) {
+        background: $primary;
+    }
+
+    .border-end {
+        border-color: rgba($color: $info, $alpha: 0.4) !important;
+    }
+}

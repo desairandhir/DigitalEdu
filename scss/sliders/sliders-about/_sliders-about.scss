@@ -1,0 +1,30 @@
+.landing-history{
+    .landing-history-slider{
+        .owl-nav{
+            display: flex;
+            align-items: center;
+            margin: -40px 0 0 -495px;
+            button{
+                width: 56px;
+                height: 56px;
+                border-radius: 100%;
+                border: 1px solid $primary;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                &:hover{
+                    background-color: $primary !important;
+                }
+                &:hover i{
+                    color: $white;
+                }
+                span{
+                    line-height: 12px;
+                    i{
+                        color: $primary;
+                    }
+                }
+            }
+        }
+    }
+}

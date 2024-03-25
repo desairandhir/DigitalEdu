@@ -1,0 +1,15 @@
+.ziphop-art{
+    .ziphop-art-img{
+        &::before{
+            content: "";
+            position: absolute;
+            left: -70px;
+            bottom: -50px;
+            width: 140px;
+            height: 140px;
+            z-index: -1;
+            background-image: url(../../dist/images/shape/Vectorabstract.svg);
+            background-repeat: no-repeat;
+        }
+    }
+}

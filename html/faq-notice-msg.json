@@ -1,0 +1,56 @@
+[
+    {
+        "Question_ID": 1,
+        "Questions": "What are alerts, messages, and notices modules?",
+        "Answers": "Alerts, messages, and notices are forms of communication used by colleges and organizations to convey important information to their members. Alerts are typically urgent notifications, messages are general communications, and notices are official announcements."
+    },
+    {
+        "Question_ID": 2,
+        "Questions": "How can I access the Alerts, Messages, and Notices system in the ERP?",
+        "Answers": "You can access the system through our ERP's user interface. Typically, there will be a dedicated section for communication, where you can view and interact with alerts, messages, and notices."
+    },
+    {
+        "Question_ID": 3,
+        "Questions": "What is the purpose of the Alerts, Messages, and Notices system in the ERP?",
+        "Answers": "The system is designed to facilitate seamless communication within colleges and organizations. It facilitates the effective distribution of crucial information, notifications, and updates to stakeholders, ensuring everyone stays informed."
+    },
+    {
+        "Question_ID": 4,
+        "Questions": "What types of information are conveyed through alerts, messages, and notices?",
+        "Answers": "The system delivers a variety of information, including critical announcements, event details, fee deadlines, and any other information deemed important for the college or organization."
+    },
+    {
+        "Question_ID": 5,
+        "Questions": "Can the system support bulk drafting emails or sms?",
+        "Answers": "Yes, our system supports bulk drafting of emails and sms through a single dashboard encourages simless messaging."
+    },
+    {
+        "Question_ID": 6,
+        "Questions": "Can I customize my notification preferences?",
+        "Answers": "Yes, the system often allows users to personalize their notification preferences. You can choose to receive alerts via email, SMS, or within the ERP platform, depending on your preferences."
+    },
+    {
+        "Question_ID": 7,
+        "Questions": "Are there any options for group-specific or department-specific alerts?",
+        "Answers": "Yes, the system usually provides the flexibility to send targeted messages to specific groups, departments, or individuals. This ensures that information is relevant to the recipients."
+    },
+    {
+        "Question_ID": 8,
+        "Questions": "Can I reply to messages or notices within the system?",
+        "Answers": "Depending on the ERP configuration, you can have the option to respond or acknowledge messages. This feature encourages two-way communication and ensures that the sender is aware of the recipient's responses."
+    },
+    {
+        "Question_ID": 9,
+        "Questions": "How secure is the communication within the ERP system?",
+        "Answers": "The ERP system employs robust security measures to protect the confidentiality and integrity of the information being communicated. It includes encryption and access controls to safeguard sensitive data."
+    },
+    {
+        "Question_ID": 10,
+        "Questions": "How can I report technical issues related to the Alerts, Messages, and Notices system?",
+        "Answers": "If you encounter any technical issues or have questions about the system, please contact the IT support team or the designated helpdesk. They will assist you in resolving any issues and provide guidance on using the system effectively."
+    }
+  ]
+  
+  
+  
+  

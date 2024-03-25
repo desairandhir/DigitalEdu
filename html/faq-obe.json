@@ -1,0 +1,52 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is Outcome-Based Education (OBE) Attainment Software?",
+      "Answers": "Our OBE Attainment Software is a comprehensive platform designed to streamline Outcome-Based Education principles, optimizing the assessment of program and course outcomes, aligning with NEP2020, and fostering holistic student development."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "How does the software optimize Assessment Processes?",
+      "Answers": "The software automates assessment processes, providing real-time insights into student performance, facilitating data-driven decision-making, and ensuring a targeted approach to academic success."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "Can the Software Integrate with Existing Systems?",
+      "Answers": "Yes, our software is designed for seamless integration with existing systems, minimizing disruptions and optimizing institutional workflows."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "What Role does the Software Play in Curriculum Alignment?",
+      "Answers": "The software strategically aligns courses with overarching educational goals, ensuring coherence and relevance in the curriculum to meet desired learning outcomes."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "How does it Contribute to Holistic Development?",
+      "Answers": "Beyond academic success, the software prioritizes holistic development by incorporating personalized learning paths, skill attainment assessments, and fostering a student-centric learning approach."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Does the Software Support Accreditation Compliance?",
+      "Answers": "Absolutely. The platform streamlines accreditation processes, providing a robust framework for compliance with accreditation standards, showcasing the institution's commitment to excellence."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "How is Student-Centric Learning Promoted?",
+      "Answers": "The software recommends personalized learning paths based on individual student performance, fostering a student-centric approach that tailors education to specific needs."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "Can the Software Measure and Assess Diverse Skills?",
+      "Answers": "Yes, the platform goes beyond traditional assessments to measure and nurture a diverse range of skills crucial for real-world success, ensuring a well-rounded education."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "What is the Significance of Bloom's Taxonomy and the OBE Framework?",
+      "Answers": "The integration of Bloom's Taxonomy and the OBE framework enhances teaching strategies, ensuring assessments encompass all levels of cognitive skills, from basic understanding to complex application."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "How Scalable and Future-Proof is the Software?",
+      "Answers": "Our software is designed to be scalable, accommodating changes in student numbers and educational initiatives, ensuring it evolves with the institution's needs for the future."
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Question_ID": 1,
+    "Questions": "What is Affiliated College ERP Software, and how does it benefit educational institutions?",
+    "Answers": "Affiliated College ERP Software is a comprehensive solution designed to automate and streamline administrative and academic processes in colleges. It benefits institutions by improving efficiency, data accuracy, and overall management."
+  },
+  {
+    "Question_ID": 2,
+    "Questions": "Which modules are included in the ERP Software for Affiliated Colleges?",
+    "Answers": "The modules typically include student information, admissions, enrollment, academic management, finance, human resources, and communication."
+  },
+  {
+    "Question_ID": 3,
+    "Questions": "Can the ERP Software be customized to align with the specific requirements and policies of our affiliated college?",
+    "Answers": "Yes, most ERP solutions for affiliated colleges offer customization options to accommodate the unique needs and policies of each institution."
+  },
+  {
+    "Question_ID": 4,
+    "Questions": "How does the ERP Software ensure the security of sensitive data, including student and staff information?",
+    "Answers": "The ERP Software employs robust security measures, including data encryption, access controls, and regular security updates to safeguard sensitive information."
+  },
+  {
+    "Question_ID": 5,
+    "Questions": "Is the user interface of the ERP Software user-friendly, and what kind of training is provided for administrators and staff?",
+    "Answers": "Yes, the user interface is designed to be user-friendly, and training is often provided to administrators and staff to ensure effective usage."
+  },
+  {
+    "Question_ID": 6,
+    "Questions": "Can the ERP Software handle multiple departments within the college?",
+    "Answers": "Yes, the ERP Software is typically designed to manage various departments within the affiliated college."
+  },
+  {
+    "Question_ID": 7,
+    "Questions": "What kind of support and maintenance services are provided after the implementation of the ERP Software?",
+    "Answers": "Support and maintenance services include regular updates, troubleshooting assistance, and customer support to address any issues."
+  },
+  {
+    "Question_ID": 8,
+    "Questions": "How does the ERP Software facilitate student admissions, registration, and enrollment processes?",
+    "Answers": "The ERP Software automates these processes, making admissions, registration, and enrollment more efficient and less prone to errors."
+  },
+  {
+    "Question_ID": 9,
+    "Questions": "What are the benefits of using university ERP software?",
+    "Answers": "There are many benefits to using university ERP software, including: Improved efficiency and productivity , Reduced costs, Increased data security,Improved decision-making,Enhanced student and faculty experience."
+  },
+  {
+    "Question_ID": 10,
+    "Questions": "Is there scalability in the ERP Software to accommodate the growth and changing needs of the affiliated college?",
+    "Answers": "Yes, ERP Software for affiliated colleges is often designed to be scalable, allowing for expansion and adaptation to changing requirements."
+  }
+]

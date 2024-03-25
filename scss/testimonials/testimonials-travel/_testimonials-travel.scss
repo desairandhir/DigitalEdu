@@ -1,0 +1,12 @@
+#travel-testi {
+    .owl-nav {
+        position: absolute;
+        right: 0;
+        bottom: 0px;
+        button{
+            &:hover{
+                background: transparent;
+            }
+        }
+    }
+}

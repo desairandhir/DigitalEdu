@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="../dist/images/logo/digitaledulogo.png" />
+    <!-- Favicon icon -->
+    <title>DigitalEdu IT Solutions Pvt ltd</title>
+    <!-- Common style CSS -->
+    <link rel="stylesheet" href="../assets/libs/node_modules/aos/dist/aos.css">
+    <link rel="stylesheet" href="../assets/libs/node_modules/owl.carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="../assets/libs/node_modules/owl.carousel/dist/assets/owl.theme.green.min.css">
+    <link href="../dist/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="faq-section">
+        <section>
+            <div class="container mb-6">
+                <div class="row">
+                 <div class="col-lg-12">
+                  <div class="mb-6 mb-lg-0">
+                      <h2 class="fw-bold text-center fs-8 mb-1">Frequently Asked Questions (FAQ's)</h2>
+                  </div>
+              </div>
+              <div class="col-lg-12 col-12">
+                <div class="d-flex align-items-center mb-3 mb-lg-0 mt-2 ms-4 ">
+                  <select id="questionSelect" class="form-select rounded-2 ms-6 mx-6" 
+                  aria-label="Default select example" onchange="displayAnswer()">
+                  <!-- <option value="" disabled selected>Select the question</option> -->
+
+                  </select>
+                  <a
+                  href="./contact-us-book-demo-school-college-university-institutes-erp-pune-mumbai-maharastra-india.html">
+                  <img src="../dist/images/icon/ContactUs-Icon.svg" alt=" contact us logo"
+                      style="width: 90px" class="img-fluid"></a>
+              </div>
+              </div>
+              </div>
+              <div class="col-lg-12 col-md-4 col-12 mt-3 px-4 px-xl-5">
+                <!-- <div id="answer0" class="answer"></div> -->
+                
+                <div id="answerContainer" class="answerFaq">
+                    <p id="answer"></p>
+                </div>
+                  </div>
+              </div>
+      </section>
+  </div>
+
+
+  <!-- <script>
+    document.addEventListener("DOMContentLoaded", async function () {
+        try {
+            const response = await fetch('csvjson.json');
+            window.data = await response.json(); // Make 'data' a global variable
+            populateDropdown(window.data);
+        } catch (error) {
+            console.error('Error fetching JSON:', error);
+        }
+    });
+    
+    function populateDropdown(data) {
+        var select = document.getElementById("questionSelect");
+    
+        data.forEach(function (item, index) {
+            var option = document.createElement("option");
+            option.value = item.Question_ID;
+            option.text = item.Questions;
+            select.appendChild(option);
+        });
+    
+        // Trigger displayAnswer() once to show the initial answer
+        displayAnswer();
+    }
+    
+    function displayAnswer() {
+        var select = document.getElementById("questionSelect");
+        var answerContainer = document.getElementById("answer");
+    
+        // Assuming 'data' is a global variable containing the JSON data
+        var selectedQuestionID = select.value;
+        var selectedAnswer = getAnswerById(selectedQuestionID, window.data);
+    
+        answerContainer.textContent = selectedAnswer;
+    }
+    
+    function getAnswerById(questionID, data) {
+        // Assuming 'data' is passed as a parameter
+        var selectedQuestion = data.find(item => item.Question_ID == questionID);
+        return selectedQuestion ? selectedQuestion.Answers : "Answer not found";
+    }
+    
+</script> -->
+    <script src=" ../assets/libs/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="../assets/libs/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/libs/node_modules/feather-icons/dist/feather.min.js"></script>
+    <script src="../dist/js/custom.js"></script>
+    <script src="../assets/libs/node_modules/aos/dist/aos.js"></script>
+    <script src="../assets/libs/node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
+    <script src="../dist/js/owl-carousel.js"></script>
+</body>
+</html>

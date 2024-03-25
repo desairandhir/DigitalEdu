@@ -1,0 +1,16 @@
+.ticket-area{
+    .digitalticket1{
+        top: 45px;
+        left: 50px;
+        z-index: 1;
+        border-radius: $border-radius-xl;
+        transform: rotate(-30deg);
+    }
+    .digitalticket2{
+        top: 95px;
+        left: 105px;
+        z-index: 0;
+        border-radius: $border-radius-xl;
+        transform: rotate(-30deg);
+    }
+}

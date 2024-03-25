@@ -1,0 +1,9 @@
+.landingpro-card-img {
+    bottom: -130px;
+    right: 60px;
+    position: absolute;
+
+    @include media-breakpoint-down(lg) {
+        position: static;
+    }
+}

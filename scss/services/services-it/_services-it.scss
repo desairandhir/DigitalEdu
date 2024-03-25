@@ -1,0 +1,19 @@
+.it-website {
+    transition: all 0.4s ease-in-out;
+    border: 2px solid $white;
+    .card-link {
+        transition: all 0.4s ease-in-out;
+        opacity: 0;
+        
+        @include media-breakpoint-down(lg) {
+            opacity: 1 !important;
+        }
+    }
+    &:hover {
+        border: 2px solid $primary;
+        box-shadow: 0px 3px 10px rgba(142, 156, 169, 0.25);
+        .card-link {
+            opacity: 1 !important;
+        }
+    }
+}

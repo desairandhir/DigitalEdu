@@ -1,0 +1,45 @@
+.blog-section{
+    .blog-section-wrapper{
+        .blog-text-area{
+            &::after{
+                content: "";
+                position: absolute;
+                right: -50px;
+                bottom: -50px;
+                width: 140px;
+                height: 140px;
+                z-index: -1;
+                background-image: url(../../dist/images/shape/Vectorabstract.svg);
+                background-repeat: no-repeat;
+            }
+        }
+        .blog-part{
+            .blog-left{
+                .comments{
+                    .comments-list{
+                        .comments-img{
+                            width: 63px;
+                            height: 63px;
+                        }
+                    }
+                }
+            }
+            .blog-right{
+                box-shadow: $box-shadow-lg;
+                .share{
+                    .social-share-list{
+                        .btn-fb{
+                            background-color: #526FA3;
+                        }
+                        .btn-twitter{
+                            background-color: #46C4FF;
+                        }
+                        .btn-linkedin{
+                            background-color: #3C86AD;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

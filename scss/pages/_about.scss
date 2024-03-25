@@ -1,0 +1,31 @@
+.about-section{
+    .about-section-wrapper{
+        .about-area{
+            .about-content{
+                &::after{
+                    content: "";
+                    position: absolute;
+                    right: -60px;
+                    bottom: -50px;
+                    width: 140px;
+                    height: 140px;
+                    z-index: -1;
+                    background-image: url(../../dist/images/shape/Vectorabstract.svg);
+                    background-repeat: no-repeat;
+                }
+            }
+            .about-card-info{
+                max-width: 340px;
+                box-shadow: $box-shadow-lg;
+                .card{
+                    .card-body{
+                        .card-img{
+                            width: 60px;
+                            height: 60px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

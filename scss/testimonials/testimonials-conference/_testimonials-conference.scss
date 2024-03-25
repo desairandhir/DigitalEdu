@@ -1,0 +1,21 @@
+.attendees-say{
+    .attendees-say-wrapper{
+        .info-rect{
+            border-radius: 175px 0 175px 0;
+
+            @include media-breakpoint-down(xl) {
+                border-radius: 100px 0 100px 0;
+            }
+            .quote{
+                top: 50px;
+                right: -40px;
+                box-shadow: $box-shadow-lg;
+
+                @include media-breakpoint-down(sm) {
+                    top: -20px;
+                    right: -10px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is Paperless Admission?",
+      "Answers": "Paperless admission refers to the process of submitting and processing admission-related documents digitally, eliminating the need for physical paperwork.It automates tedious tasks, manages exam data effectively, and ensures secure and reliable online exams."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "What is the process for paperless admission?",
+      "Answers": " Discover the seamless steps involved in our efficient and eco-friendly online admission system."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "How can I submit my application documents digitally?",
+      "Answers": "Learn how to conveniently upload and submit all required documents through our secure online portal."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "Is the paperless admission system secure for handling sensitive data?",
+      "Answers": "Explore our robust security measures to ensure the utmost protection of your confidential information."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "What are the benefits of choosing paperless admission?",
+      "Answers": "Understand the advantages, including efficiency, sustainability, and real-time application tracking."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Can I track the status of my application in real-time?",
+      "Answers": "Stay informed throughout the process with our intuitive real-time application tracking feature."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "Is the paperless admission system user-friendly?",
+      "Answers": "Experience an easy and straightforward application process designed for user convenience."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "How will I receive notifications about my admission status? ",
+      "Answers": "Learn about our instant notification system that keeps you updated on your application progress."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "What if I encounter technical issues during the submission process?",
+      "Answers": "If you experience technical difficulties, reach out to the admission support team immediately. They will guide you through the troubleshooting process or provide alternative solutions."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "Can I receive confirmation of my submitted documents?",
+      "Answers": " Yes, most institutions will send a confirmation email or notification acknowledging the receipt of your documents. Keep this confirmation for your records."
+    }
+]

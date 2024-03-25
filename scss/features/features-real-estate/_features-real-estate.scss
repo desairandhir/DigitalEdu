@@ -1,0 +1,16 @@
+.history-bg {
+    background: linear-gradient(to right, $light-info 0%, $light-info 50%, $light-gray-200 50%, $light-gray-200 100%);
+
+    @include media-breakpoint-down (md) {
+        background: $light-info;
+    }
+    
+    .history-bg2 {
+        background: linear-gradient(to right, $light-info 0%, $light-info 70%, $light-gray-200 30%, $light-gray-200 100%);
+    
+        @include media-breakpoint-down (md) {
+            background: $light-info;
+        }
+    }
+    
+}

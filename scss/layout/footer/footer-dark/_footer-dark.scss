@@ -1,0 +1,11 @@
+.footer-dark {
+    .footer-border {
+        border-bottom: 1px solid #153757;
+    }
+    .footer-link {
+        transition: all 0.4s ease-in-out;
+        &:hover {
+            color: $white !important;
+        }
+    }
+}

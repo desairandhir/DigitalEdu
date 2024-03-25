@@ -1,0 +1,53 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is an Add-on course?",
+      "Answers": " An extra course is like a bonus class where you learn more about a specific topic outside your regular studies."
+    },
+    {
+        "Question_ID": 2,
+        "Questions": "What is the purpose of the add-on course module in our ERP system?",
+        "Answers": "The add-on course module is designed to enhance your skills and knowledge within our ERP system. It offers specialised training on specific functionalities to help you maximise the benefits of the software."
+      },
+    {
+        "Question_ID": 3,
+        "Questions": "Can I access course materials on various devices?",
+        "Answers": "Yes, you can access your course materials on various devices such as laptops, tablets, and smartphones. Ensure that you have a compatible internet browser for optimal experience."
+      },
+      {
+        "Question_ID": 4,
+        "Questions": "How do I access course materials for the add-on course",
+        "Answers": "Course materials are typically accessible through a dedicated online platform. Upon enrollment, you'll receive instructions on how to access lectures, readings, assignments, and any additional resources related to the add-on course."
+      },
+    {
+      "Question_ID": 5,
+      "Questions": "How long do extra courses last?",
+      "Answers": "It varies. Some finish in a few weeks, and others take a few months. Look at the course details to find out how long it will take."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Do I need to know something before starting an extra course?",
+      "Answers": "Depends on the course. Some need basic knowledge, while others are open to beginners. Check the course info to see if there are any requirements."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "How do I get a certificate after finishing an extra course?",
+      "Answers": "When you finish the course, you usually get a certificate. Management will tell you how to get it—whether it's a digital one or a paper copy."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "Can I do more than one extra course at a time?",
+      "Answers": "Yes, It's on you and the courses. Some people do multiple courses, but it's essential to manage your time well so you don't feel overwhelmed."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "How do I enroll in an add-on course?",
+      "Answers": "To enroll in an add-on course, navigate to the add-on course page and look for the registration section."
+    },
+ 
+    {
+      "Question_ID": 10,
+      "Questions": "What if I miss a class or fall behind in an extra course?",
+      "Answers": "Many courses are recorded, so you can catch up later. If you need extra help, you can reach out to the course community or the instructor."
+    }
+  ]

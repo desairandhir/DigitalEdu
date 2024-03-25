@@ -1,0 +1,12 @@
+.online-offline-conferences{
+    &::before{
+        content: '';
+        position: absolute;
+        background-color: #E0F7FF;
+        width: 687px;
+        height: 687px;
+        bottom: -275px;
+        left: 140px;
+        border-radius: 100%;
+    }
+}

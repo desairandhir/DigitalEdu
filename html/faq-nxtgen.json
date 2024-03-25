@@ -1,0 +1,52 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is Exam Department Process Automation Software?",
+      "Answers": "The NxtGen Exam is a comprehensive and secure software solution designed to streamline workflows, enhance efficiency, and improve student experience in exam administration. It automates tedious tasks, manages exam data effectively, and ensures secure and reliable online exams."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "What are the benefits of using Exam Department Process Automation Software?",
+      "Answers": "The NxtGen Exam offers a wide range of benefits, including:Increased efficiency:- Automate repetitive tasks and streamline workflows to save time and resources.Reduced costs:- Eliminate paper-based processes and reduce printing, paper, and manpower costs. Improved accuracy:- Eliminate manual errors with automated grading, data management, and reporting.Enhanced security:- Ensure data integrity with robust security features and role-based access controls.Flexibility:- Cater to diverse needs with hybrid exam mode, custom question types, and personalized feedback.Increased student satisfaction- Provide a user-friendly and convenient exam experience with mobile apps and online access."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "What types of exams does The NxtGen Exam support?",
+      "Answers": "The NxtGen supports a wide variety of exam formats, including:Online exams,Offline exams Hybrid exams (a combination of online and offline elements),Multiple-choice questions,Open-ended questions, Essay questions,Practical exams,"
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "How secure is Exam Department Process Automation Software?",
+      "Answers": "DigitalEdu takes Exam data security very seriously. It features are Robust security features to protect exam data from unauthorized access, Role-based access controls to ensure that only authorized personnel can access sensitive information. Secure data encryption to protect data in transit and at rest.    Regular security audits and penetration testing to identify and address vulnerabilities."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "What are the system requirements for Exam Department Process Automation Software?",
+      "Answers": "The NxtGen Exam System has minimal system requirements and can run on most modern web browsers. It also has mobile apps for both iOS and Android devices."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "How do I integrate The NxtGen Exam System with my existing systems?",
+      "Answers": "The NxtGen offers a variety of integration options, including: APIs for seamless integration with your existing systems,Pre-built integrations with popular learning management systems (LMS),Custom integration solutions to meet your specific needs."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "What kind of training and support is available?",
+      "Answers": " The DigitalEdu provides comprehensive training and support resources, including:Online training courses,User guides and documentation,Video tutorials, Live chat and email support"
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "How much does The NxtGen Exam System cost?",
+      "Answers": "The cost of The NxtGen depends on your specific needs and the number of students. Please contact us for a personalized quote."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "Can I try Exam Department Process Automation Software before I buy it? ",
+      "Answers": "Yes, we offer a free trial so you can experience the software firsthand."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "How do I get started with Exam Department Process Automation Software?",
+      "Answers": " Please contact us for more information and to schedule a demo."
+    }
+]

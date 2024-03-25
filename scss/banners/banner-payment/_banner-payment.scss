@@ -1,0 +1,14 @@
+.payment-banner{
+    &::before{
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        max-width: 1350px;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        background-color: $light-info;
+        border-radius: 0px 0px 50px 0px;
+    }
+}

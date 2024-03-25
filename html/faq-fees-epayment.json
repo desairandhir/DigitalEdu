@@ -1,0 +1,52 @@
+[
+    {
+    "Question_ID": 1,
+    "Questions": "What is the Fees and ePayments Module?",
+    "Answers": "The Fees and ePayments Module is a comprehensive solution designed to streamline the management of fees and facilitate electronic payments within educational institutions. It offers a user-friendly interface to manage financial transactions efficiently."
+    },
+    {
+    "Question_ID": 2,
+    "Questions": "What are the benefits of using the Fees and ePayments Module?",
+    "Answers": "The Fees and ePayments Module provides several advantages, including: Automated fee processing, Convenient online payment options, Real-time tracking of financial transactions, and Improved transparency in financial matters for both institutions and students."
+    },
+    {
+    "Question_ID": 3,
+    "Questions": "What types of financial transactions does the module support?",
+    "Answers": "The module supports a variety of financial transactions, such as: Tuition fees, Exam fees, Library fines, Event registrations, and Any other fee-related payments that may be applicable to educational institutions."
+    },
+    {
+    "Question_ID": 4,
+    "Questions": "How secure is the Fees and ePayments Module?",
+    "Answers": "Security is a paramount concern for our module. It incorporates robust security features, including encrypted payment gateways, secure user authentication, regular security audits, and compliance with industry standards to ensure the safety of financial data."
+    },
+    {
+    "Question_ID": 5,
+    "Questions": "What are the system requirements for the Fees and ePayments Module?",
+    "Answers": "The Fees and ePayments Module has minimal system requirements and is compatible with most modern web browsers. Mobile apps may be available for convenient access on iOS and Android devices to facilitate online payments."
+    },
+    {
+    "Question_ID": 6,
+    "Questions": "How do I integrate the module with my existing financial systems?",
+    "Answers": "Our module supports seamless integration with various financial systems, offering options such as: APIs for connectivity, Pre-built integrations with common financial management tools, and Customized solutions to meet specific institutional financial needs."
+    },
+    {
+    "Question_ID": 7,
+    "Questions": "What kind of training and support is available for the Fees and ePayments Module?",
+    "Answers": "We provide comprehensive training and support resources, including: Online training sessions, User-friendly guides and documentation, Video tutorials, Live chat, and Email support to ensure effective implementation and usage of the Fees and ePayments Module."
+    },
+    {
+    "Question_ID": 8,
+    "Questions": "How much does the Fees and ePayments Module cost?",
+    "Answers": "The cost of the module depends on institutional requirements and usage. For a personalized quote, please reach out to our sales team for detailed pricing information."
+    },
+    {
+    "Question_ID": 9,
+    "Questions": "Can I try the Fees and ePayments Module before making a purchase?",
+    "Answers": "Certainly! We offer a free trial period for the Fees and ePayments Module, allowing institutions to experience its features and benefits firsthand before making a purchasing decision."
+    },
+    {
+    "Question_ID": 10,
+    "Questions": "How do I get started with the Fees and ePayments Module?",
+    "Answers": "To learn more and initiate the onboarding process, please contact our team. We'll guide you through the features of the Fees and ePayments Module and assist in getting started with its implementation."
+    }
+    ]

@@ -1,0 +1,52 @@
+.money-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 3px;
+    background-color: $info;
+}
+.money-dot {
+    position: absolute;
+    top: -9px;
+    padding: 3px;
+    border-radius: 50%;
+    border: 2px solid $info;
+    background-color: $white;
+    .mini-dot {
+        background-color: $info;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+    }
+}
+.calculator-tab {
+    padding: 10px;
+    .active {
+        background-color: $info !important;
+    }
+}
+.slider, .slider2 {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 7px;
+    border-radius: 50px;
+    background: $dark-primary;
+    outline: none;
+    transition: opacity .2s;
+}
+.slider::-webkit-slider-thumb, .slider2::-webkit-slider-thumb {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: $info;
+    cursor: pointer;
+}
+.slider::-moz-range-thumb, .slider2::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background: $info;
+    cursor: pointer;
+}

@@ -1,0 +1,59 @@
+[
+    {
+    "Question_ID": 1,
+    "Questions": "Why is feedback important for the ERP system?",
+    "Answers": "It helps us understand the user experience, identify areas of improvement, and tailor the ERP system to better suit the needs of both teachers and students."
+  },
+  {
+    "Question_ID": 2,
+    "Questions": "How can I provide feedback on the ERP system?",
+    "Answers": "You can provide feedback through our dedicated survey and feedback page. Simply navigate to the designated section and follow the instructions to share your thoughts, suggestions, and experiences."
+  },
+  {
+    "Question_ID": 3,
+    "Questions": "Is feedback anonymous?",
+    "Answers": "Yes, feedback can be submitted anonymously if you choose. However, providing your details can allow us to follow up with you for further clarification or to inform you about updates based on your suggestions."
+  },
+  {
+    "Question_ID": 4,
+    "Questions": "What types of feedback are you looking for?",
+    "Answers": "We welcome feedback on all aspects of the ERP system, including user interface, functionality, performance, and any specific features. Whether positive or constructive, your feedback helps us enhance the overall user experience."
+  },
+  {
+    "Question_ID": 5,
+    "Questions": "How often should I provide feedback?",
+    "Answers": "You are encouraged to provide feedback whenever you encounter an issue, have a suggestion, or notice something that can be improved. "
+  },
+  {
+    "Question_ID": 6,
+    "Questions": "Can I suggest new features through the feedback page?",
+    "Answers": "Absolutely! We value your input on potential new features. Use the feedback form to propose and describe the features you believe would enhance the ERP system's functionality."
+  },
+  {
+    "Question_ID": 7,
+    "Questions": "Will my feedback lead to actual changes in the ERP system?",
+    "Answers": "Yes, your feedback is invaluable, and we actively use it to make improvements. While we may not be able to implement every suggestion, we carefully consider all feedback to enhance the ERP system's overall performance and usability."
+  },
+  {
+    "Question_ID": 8,
+    "Questions": "Are there specific guidelines for providing constructive feedback?",
+    "Answers": "While there are no strict guidelines, we encourage users to be specific and provide details about their experiences. "
+  },
+  {
+    "Question_ID": 9,
+    "Questions": "Can I provide feedback for a specific module or feature within the ERP system?",
+    "Answers": "Yes, the feedback form is designed to be flexible. You can specify the module or feature you are referring to in your feedback, allowing us to focus on specific areas of improvement within the ERP system."
+  },
+  {
+    "Question_ID": 10,
+    "Questions": "Is there a limit to the number of times I can submit feedback?",
+    "Answers": "There is no limit to the number of feedback submissions. We welcome continuous input and appreciate your dedication to helping us enhance the ERP system for all users."
+  },
+  {
+    "Question_ID": 11,
+    "Questions": "How is feedback prioritized for implementation?",
+    "Answers": "Feedback is reviewed and prioritized based on factors such as the number of users affected, the severity of the issue, and the potential impact on overall user experience. "
+  }
+]
+
+

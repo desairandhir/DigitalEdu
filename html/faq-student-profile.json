@@ -1,0 +1,59 @@
+[
+    {
+    "Question_ID": 1,
+    "Questions": "What is the Student Profile Module?",
+    "Answers": "The Student Profile Module is a component within the college ERP system designed to manage and store comprehensive information about each student enrolled in the institution."
+  },
+  {
+    "Question_ID": 2,
+    "Questions": "How do I access my student profile?",
+    "Answers": "Log in to the college ERP system using your credentials, and navigate to the Student Profile section. Here, you can view and update your personal and academic information."
+  },
+  {
+    "Question_ID": 3,
+    "Questions": "What information is included in the Student Profile?",
+    "Answers": "The Student Profile encompasses a wide range of data, including personal details, contact information, academic records, attendance history, exam results, and more."
+  },
+  {
+    "Question_ID": 4,
+    "Questions": "Can I update my personal details in the Student Profile?",
+    "Answers": "Yes, you can update certain personal details such as contact information, address, and emergency contact information. However, certain fields may be restricted and require approval from the administrative staff."
+  },
+  {
+    "Question_ID": 5,
+    "Questions": "What should I do if there is an error in my academic records?",
+    "Answers": "If you notice any discrepancies or errors in your academic records, contact the college administration or relevant department to initiate the correction process."
+  },
+  {
+    "Question_ID": 6,
+    "Questions": "How can I track my attendance through the Student Profile Module?",
+    "Answers": "Access the Attendance section to view your attendance records for each class. It provides details such as total classes attended, absent days, and any relevant remarks."
+  },
+  {
+    "Question_ID": 7,
+    "Questions": "Is the information in the Student Profile Module secure?",
+    "Answers": "Yes, the college ERP system provides robust security measures to safeguard student information. Access to the Student Profile is typically restricted to unauthorised persons."
+  },
+  {
+    "Question_ID": 8,
+    "Questions": "What should I do if I forget my login credentials for the college ERP system?",
+    "Answers": "Contact the college IT support or follow the password recovery process provided on the login page to regain access to your account."
+  },
+  {
+    "Question_ID": 9,
+    "Questions": "How often is the information in the Student Profile Module updated?",
+    "Answers": "The information is regularly updated, reflecting changes in enrollment status, grades, and other relevant details. "
+  },
+  {
+    "Question_ID": 10,
+    "Questions": "What administrative functions can teachers perform in the Student Module of the college ERP?",
+    "Answers": "Teachers, as part of the administrative role, can perform tasks such as grade submission, attendance tracking, accessing student profiles, and providing feedback through the Student Module."
+  },
+  {
+    "Question_ID": 11,
+    "Questions": "Can I view and update student profiles through the Student Module?",
+    "Answers": "Yes, teachers with administrative privileges can access and update student profiles, ensuring that the information is accurate and up-to-date. "
+  }
+]
+
+

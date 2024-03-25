@@ -1,0 +1,26 @@
+.related-projects{
+    .related-projects-slider{
+        .owl-stage-outer{
+            overflow: inherit;
+        }
+        .owl-dots{
+            position: absolute;
+            right: 230px;
+            bottom: 50px;
+            margin-top: 0 !important;
+
+            @include media-breakpoint-down(lg) {
+                position: relative;
+                right: inherit;
+                bottom: inherit;
+            }
+
+            .owl-dot{
+                span{
+                    width: 16px;
+                    height: 16px;
+                }
+            }
+        }
+    }
+}

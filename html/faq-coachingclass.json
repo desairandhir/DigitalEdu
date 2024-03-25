@@ -1,0 +1,52 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is a Coaching Class Network, and how does it benefit coaching institutions?",
+      "Answers": "A Coaching Class Network is a system that connects multiple coaching classes, facilitating centralized administration and collaboration. It benefits institutions by improving efficiency, communication, and overall management."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "Which modules are typically included in the Coaching Class Network software?",
+      "Answers": "The modules usually include student information, course management, attendance tracking, performance analytics, communication tools, and financial management."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "Can the Coaching Class Network software be customized to meet the specific needs of our coaching institute?",
+      "Answers": "Yes, many Coaching Class Network solutions offer customization options to adapt to the unique requirements and policies of each institute."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "How does the software ensure the security of sensitive student and staff data across the entire network?",
+      "Answers": "The software employs robust security measures, including data encryption, access controls, and regular security updates to protect sensitive information across the network."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "Is the user interface of the Coaching Class Network software user-friendly, and what kind of training is provided for administrators and staff?",
+      "Answers": "Yes, the user interface is designed to be user-friendly, and training is often provided to administrators and staff to ensure effective usage."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Does the Coaching Class Network software facilitate communication between instructors, students, and administrators across different coaching classes?",
+      "Answers": "Yes, many Coaching Class Network solutions include communication features to enhance collaboration between instructors, students, and administrators."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "Can the software handle student enrollment, registration, and course management efficiently across multiple coaching classes?",
+      "Answers": "Yes, the software automates these processes, making enrollment, registration, and course management more efficient and less prone to errors."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "How does the Coaching Class Network software support instructors in managing classes and tracking student progress?",
+      "Answers": "The software assists instructors in managing classes through tools for lesson planning, progress tracking, and performance analytics."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "Can the Coaching Class Network software integrate with other existing software or systems used by the coaching institute?",
+      "Answers": "Yes, integration capabilities are often available to connect with other software and systems used by the coaching institute."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "Is there scalability in the Coaching Class Network software to accommodate the growth and changing needs of the coaching institute network?",
+      "Answers": "Yes, Coaching Class Network software is often designed to be scalable, allowing for expansion and adaptation to changing requirements."
+    }
+  ]

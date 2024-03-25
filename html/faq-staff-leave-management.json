@@ -1,0 +1,58 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is the Staff Leave Management System ?",
+      "Answers": "The Staff Leave Management System is an automated platform designed to streamline and manage employee leave requests, approvals, and tracking. It ensures efficient and transparent handling of staff leave within the organization."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "Can I check the status of my leave request?",
+      "Answers": "Yes, you can track the status of your leave request in real-time through the system. The system will provide updates on whether your request is pending, approved, or rejected."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "What types of leave can I request through the system?",
+      "Answers": "The system usually supports various types of leave, including annual leave, sick leave, personal leave, and other special categories as defined by the organization's leave policy."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "What should I do if I need to modify or cancel a leave request?",
+      "Answers": "If you need to modify or cancel a leave request, contact your supervisor or the HR department immediately. They will guide you on the necessary steps and whether any approvals are required for the modification or cancellation."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "Is there a limit to the number of leave days I can request at once?",
+      "Answers": "The maximum leave duration allowed may vary based on the organization's policies. Check the organization's leave policy or contact the HR department for information on maximum leave durations."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "What should I do if I encounter technical issues with the Staff Leave Management System?",
+      "Answers": "In case of technical issues, reach out to the DigitalEdu Support team or the designated helpdesk for assistance. Provide details about the problem, such as error messages or screenshots, to help expedite the resolution process."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "Can I view a history of my past leave requests?",
+      "Answers": "Yes, the Staff Leave Management System typically provides a leave history section where you can review details of your past leave requests, including approved, pending, and denied requests."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "What happens if my leave request is denied?",
+      "Answers": "If your leave request is denied, you will receive a notification through the system, along with a reason for the denial."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "Can I request leave for half-days or specific time periods?",
+      "Answers": "Yes, the system typically allows for the submission of leave requests for half-days or specific time durations."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "Is the Staff Leave Management System mobile-friendly?",
+      "Answers": "Yes, our  Staff Leave Management System  platform designed to be mobile-friendly, allowing employees to access and manage their leave requests on smartphones or tablets."
+    },
+    {
+        "Question_ID": 11,
+        "Questions":"How is sensitive information, such as medical documentation, handled within the Staff Leave Management System?",
+        "Answers": "The system typically incorporates security measures to protect sensitive information. Medical documentation and other confidential details are usually encrypted and accessible only to authorized personnel."
+    }
+
+  ]

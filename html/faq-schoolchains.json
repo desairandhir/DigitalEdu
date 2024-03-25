@@ -1,0 +1,52 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is a School Chain, and how does it differ from individual schools?",
+      "Answers": "A School Chain is a network of multiple schools operating under a common management or brand. It differs from individual schools as it allows for centralized administration and shared resources."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "How can a School Chain benefit students and parents?",
+      "Answers": "School Chains often provide standardized quality education, shared resources, and a consistent curriculum, benefiting students and parents with a uniform and reliable educational experience."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "What modules are typically included in the ERP System for School Chains?",
+      "Answers": "The ERP System for School Chains may include modules for student information, admissions, academic management, finance, human resources, communication, and centralized reporting."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "Can the ERP System be customized to meet the specific needs of each school within the chain?",
+      "Answers": "Yes, many ERP systems for School Chains offer customization options to cater to the unique requirements of each school."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "How does the ERP System ensure the security of student and staff data across the entire School Chain?",
+      "Answers": "The ERP System employs robust security measures, such as data encryption, access controls, and regular security updates, to safeguard sensitive information across the entire School Chain."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Is the ERP System user-friendly, and what kind of training is provided for administrators and staff in each school?",
+      "Answers": "Yes, the ERP System is designed to be user-friendly, and training is often provided to administrators and staff to ensure effective usage in each school."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "Does the ERP System facilitate communication and collaboration among different schools in the chain?",
+      "Answers": "Yes, many ERP systems for School Chains include features that enhance communication and collaboration among different schools, fostering a sense of unity"
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "Can the ERP System handle variations in curriculum and administrative processes among different schools within the chain?",
+      "Answers": "Yes, the ERP System is often designed to accommodate variations in curriculum and administrative processes to meet the specific needs of each school."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "What support and maintenance services are provided for the ERP System after implementation in School Chains?",
+      "Answers": "Support and maintenance services typically include regular updates, troubleshooting assistance, and customer support to address any issues across the School Chain."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "How does the ERP System contribute to the growth and expansion of the School Chain?",
+      "Answers": "The ERP System facilitates scalability, making it easier to manage and coordinate activities as the School Chain grows. It also provides valuable insights for strategic decision-making."
+    }
+  ]

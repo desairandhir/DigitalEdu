@@ -1,0 +1,115 @@
+@include media-breakpoint-down(xxl) {
+    .footer-dark-v3{
+        &::before{
+            display: none;
+        }
+    }
+}
+
+@include media-breakpoint-down(xl) {
+    .call-to-action{
+        .call-to-action-wrapper{
+            &::before{
+                right: -110px;
+                height: 600px;
+                width: 600px;
+            }
+        }
+    }
+    .landing-history{
+        .owl-carousel{
+            .owl-nav{
+                margin: 20px 0 0 0;
+            }
+        }
+    }
+}
+
+@include media-breakpoint-down(lg) {
+    .call-to-action{
+        .call-to-action-wrapper{
+            &::before{
+                display: none;
+            }
+        }
+    }
+    .landing-history{
+        .owl-carousel{
+            .owl-nav{
+                justify-content: center;
+            }
+        }
+    }
+    .biggest-digital-event{
+        .ticket-box, .ticket-price-box{
+            width: 100% !important;
+        }
+    }
+    .attendees-say{
+        .ticket-area{
+            .digitalticket1, .digitalticket2{
+                position: relative !important;
+                transform: inherit;
+                top: inherit;
+                left: inherit;
+                right: inherit;
+            }
+        }
+    }
+    .footer-dark-v3{
+        &::after{
+            display: none;
+        }
+    }
+    .review{
+        .owl-carousel{
+            .owl-dots{
+                position: relative;
+                flex-direction: row;
+                justify-content: center;
+                top: inherit;
+                right: inherit;
+                transform: inherit;
+                bottom: -80px;
+            }
+        }
+    }
+}
+
+@include media-breakpoint-down(md){
+    .business-culture{
+        .business-culture-img{
+            .exprerience-box{
+                top: 0;
+                right: 0;
+                max-width: 115px;
+            }
+        }
+    }
+}
+@include media-breakpoint-down(sm){
+    .experience-conference{
+        .experience-conference-img{
+            .conference-img-left{
+                .name-tag-left{
+                    left: 0;
+                    top: 35px;
+                }
+            }
+            .conference-img-right{
+                .name-tag-right{
+                    right: 0;
+                    top: 35px;
+                }
+            }
+        }
+    }
+    .human-resource{
+        .human-resource-img{
+            .img-title{
+                right: 0;
+                bottom: 10px;
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is an AI-backed Question Paper Generation System?",
+      "Answers": "Our system is an innovative platform that utilizes artificial intelligence to automate and enhance the process of creating question papers for paper-pen exams."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "How does AI contribute to question paper generation?",
+      "Answers": "AI analyzes required question paper patterns and Question banks to intelligently generate relevant and challenging question paper sets, ensuring a dynamic and adaptive assessment experience."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "Is the system suitable for various educational levels and subjects?",
+      "Answers": "Yes, our AI-powered system is designed to be versatile and adaptable, making it suitable for a wide range of educational levels and subjects."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "Can I customize the difficulty level of questions for different assessments?",
+      "Answers": "Absolutely. Our system allows you to customize the difficulty level of questions, ensuring that assessments align with the intended learning outcomes."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "How does the system handle question diversity?",
+      "Answers": "The system adopts organically growing question banks uploaded to cover a broad spectrum of topics and difficulty levels, ensuring a diverse set of questions for varied assessments."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Is the platform user-friendly for educators?",
+      "Answers": "Yes, our platform is designed with educators, and controllers of examination in mind, offering a user-friendly interface that simplifies the question paper creation process."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "Are the assessments created by the system fair and unbiased?",
+      "Answers": "Yes, the algorithmic question generation process ensures fairness and minimizes bias in assessments, providing an equitable evaluation for all students."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "Can I integrate the system with other educational tools and platforms?",
+      "Answers": "Certainly. Our system is designed to be compatible with various educational tools and platforms, allowing for seamless integration into your existing workflow."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "How secure is the online digital exam solution?",
+      "Answers": "Security is a top priority. Our online digital exam solution is equipped with robust security features to protect the integrity of assessments and ensure a secure testing environment."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "What kind of support and training is provided for educators using the system?",
+      "Answers": "We offer comprehensive support, handholding, and training resources to help educators make the most of our system. This includes tutorials, documentation, and responsive customer support to address any queries."
+    },
+    {
+        "Question_ID":11,
+        "Questions": "Is the system suitable for both traditional and online learning environments?",
+        "Answers":"Absolutely. Our system is adaptable to various learning environments, whether traditional (paper-pen) classroom settings or online learning platforms."
+    }
+  ]

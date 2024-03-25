@@ -1,0 +1,63 @@
+#sassreview {
+    .owl-prev {
+        position: absolute;
+        left: -90px;
+        top: 50%;
+        transform: translateY(-50%);
+        padding: 10px 16px !important;
+        border: 1px solid $primary;
+        color: $primary;
+        border-radius: 50%;
+        opacity: 0.3;
+        transition: all 0.4s ease-in-out;
+        &:hover {
+            background: none;
+            opacity: 1;
+        }
+
+        @include media-breakpoint-down(md) {
+            top: unset;
+            transform: translateY(unset);
+            bottom: -20px;
+            left: 30px;
+        }
+
+        @include media-breakpoint-down(sm) {
+            margin-top: 40px;
+            position: static;
+            top: unset;
+            transform: translateY(unset);
+        }
+    }
+    .owl-next {
+        position: absolute;
+        right: -90px;
+        top: 50%;
+        transform: translateY(-50%);
+        padding: 10px 16px !important;
+        border: 1px solid $primary;
+        color: $primary;
+        border-radius: 50%;
+        opacity: 0.3;
+        transition: all 0.4s ease-in-out;
+
+        &:hover {
+            background: none;
+            opacity: 1;
+        }
+
+        @include media-breakpoint-down(md) {
+            top: unset;
+            transform: translateY(unset);
+            bottom: -20px;
+            right: 30px;
+        }
+
+        @include media-breakpoint-down(sm) {
+            margin-top: 40px;
+            position: static;
+            top: unset;
+            transform: translateY(unset);
+        }
+    }
+}

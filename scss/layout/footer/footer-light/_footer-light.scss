@@ -1,0 +1,18 @@
+.footer-light{
+    overflow-x: clip;
+    &::after{
+        content: '';
+        position: absolute;
+        width: 647px;
+        height: 647px;
+        right: -140px;
+        bottom: 0;
+        z-index: 1;
+        background: #DAE7FF;
+        filter: blur(250px);
+
+        @include media-breakpoint-down(lg) {
+            filter: blur(500px);
+        }
+    }
+}

@@ -1,0 +1,58 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is School ERP Software, and how does it enhance educational institutions?",
+      "Answers": "School ERP Software is a comprehensive solution designed to automate and streamline administrative and academic processes in schools. It enhances institutions by improving efficiency, communication, and overall management."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "Which modules are typically included in the ERP Software for Schools?",
+      "Answers": "The ERP Software for Schools commonly includes modules for student information, admissions, attendance, timetable, gradebook, communication, finance, human resources, and examination management."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": "Can the ERP Software be customized to align with the specific needs and policies of our school?",
+      "Answers": "Yes, most School ERP Software solutions offer customization options to accommodate the unique needs, workflows, and policies of each school."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "How does the ERP Software ensure the security of sensitive data, including student and staff information?",
+      "Answers": "The ERP Software employs robust security measures, including data encryption, access controls, and regular security updates to safeguard sensitive information and maintain privacy."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "Is the user interface of the ERP Software user-friendly, and what kind of training is provided for administrators and staff?",
+      "Answers": "Yes, the user interface is designed to be user-friendly. Training programs, including on-site training, webinars, and documentation, are often provided to ensure effective usage by administrators and staff."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": "Does the ERP Software integrate with other existing software or systems used by the school?",
+      "Answers": "Yes, many School ERP Software solutions offer integration capabilities to connect with other software and systems used by the school, ensuring a seamless flow of information."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": "Can the ERP Software handle multiple departments within the school?",
+      "Answers": "Yes, the ERP Software is typically designed to manage various departments within the school, including academics, administration, finance, and human resources."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "What kind of support and maintenance services are provided after the implementation of the ERP Software?",
+      "Answers": "Support and maintenance services include regular updates, troubleshooting assistance, and customer support to address any issues and ensure smooth operation after the implementation of the ERP Software."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "How does the ERP Software facilitate student admissions, registration, and enrollment processes?",
+      "Answers": "The ERP Software automates and streamlines admissions, registration, and enrollment processes, making them more efficient, reducing paperwork, and minimizing errors."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "Can the ERP Software generate reports and analytics for informed decision-making?",
+      "Answers": "Yes, the ERP Software typically includes reporting and analytics tools, providing insights into student performance, attendance trends, and other key metrics for informed decision-making by school administrators."
+    },
+    {
+        "Question_ID": 11,
+        "Questions": "Is there scalability in the ERP Software to accommodate the growth and changing needs of the school?",
+        "Answers": "Yes, School ERP Software is often designed to be scalable, allowing for expansion and adaptation to changing requirements as the school grows and evolves."
+    }
+
+  ]

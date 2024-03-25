@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /restricted/
+Disallow: /terms-and-conditions.html
+Disallow: /next-gen-exam.html
+Disallow: /sass.html
+Disallow: /demo-conference.html
+Disallow: /solutions/affiliate_college/management/pune/mumbai
+Disallow: /courses/scott-young-rapid-learner-course/
+Disallow: /real-estate.html
+Disallow: /travel.html
+Disallow: /it.html
+Disallow: /best-automonous-institutes-erp-mis-solutions-pune-mumbai-gujrat-indore-india.html
+
+Sitemap: https://digitaledu.net/sitemap.xml
+Sitemap: https://digitaledu.net/image_sitemap.xml
+# Additional specific rules based on your needs

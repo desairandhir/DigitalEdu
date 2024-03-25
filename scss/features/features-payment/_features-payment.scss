@@ -1,0 +1,13 @@
+.online-payment {
+
+    .virtual-card {
+        border-radius: 12px !important;
+        background: url('../../dist/images/payment/virtul.png') no-repeat;
+        background-size: cover;
+
+        @include media-breakpoint-down(lg) {
+            background: $white;
+        }
+    }
+
+}

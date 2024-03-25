@@ -1,0 +1,17 @@
+{
+  "name": "libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-ui.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "feather-icons": "^4.29.0",
+    "jquery": "^3.6.0",
+    "owl.carousel": "^2.3.4"
+  }
+}

@@ -1,0 +1,52 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "How do I submit an assignment or project online?",
+      "Answers": "You can submit assignments or projects through the online portal. Look for the submission link on the platform and follow the provided instructions."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": " Can I collaborate with classmates on a group project?",
+      "Answers": "Yes, collaboration is encouraged! Group projects provide an opportunity to work together, fostering teamwork and diverse perspectives."
+    },
+    {
+      "Question_ID": 3,
+      "Questions": " Are late submissions accepted, and is there a penalty?",
+      "Answers": "Check the assignment guidelines for the policy on late submissions. Some assignments may have specific rules regarding penalties."
+    },
+    {
+      "Question_ID": 4,
+      "Questions": "How can I track my progress on assignments and projects in real-time?",
+      "Answers": "Real-time progress tracking is available on the platform. Access your dashboard to see how you're doing and identify areas for improvement."
+    },
+    {
+      "Question_ID": 5,
+      "Questions": "Can I get feedback on my assignment before the final submission?",
+      "Answers": "Yes, you can! Teachers often provide constructive feedback on drafts to help you improve before the final submission."
+    },
+    {
+      "Question_ID": 6,
+      "Questions": " How are assignments and projects graded?",
+      "Answers": "The grading process is simplified with automated grading. This allows teachers to focus on providing feedback and personalized guidance."
+    },
+    {
+      "Question_ID": 7,
+      "Questions": " How can I access analytics and insights into my assignment and project performance?",
+      "Answers": " Gain valuable insights into your performance by leveraging data analytics. The platform provides analytics to help identify areas for improvement in curriculum and teaching methods."
+    },
+    {
+      "Question_ID": 8,
+      "Questions": "How does the system protect against malicious files during file uploads?",
+      "Answers": "Your files are safe with our system! We include built-in virus scanning and protection measures to ensure secure file uploads, preventing any harmful content."
+    },
+    {
+      "Question_ID": 9,
+      "Questions": "Is it possible to submit assignments from outside the classroom?",
+      "Answers": "Absolutely! Our online submission feature allows you to turn in assignments from anywhere, providing convenience and accessibility."
+    },
+    {
+      "Question_ID": 10,
+      "Questions": "Can I customize assignments based on my preferences and requirements?",
+      "Answers": "Certainly! Our system allows for effortless assignment creation, enabling you to tailor assignments to your specific instructions, deadlines, and evaluation criteria."
+    }
+  ]

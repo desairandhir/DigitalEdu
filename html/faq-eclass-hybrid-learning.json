@@ -1,0 +1,42 @@
+[
+    {
+      "Question_ID": 1,
+      "Questions": "What is eClass Hybrid Learning Management System?",
+      "Answers": "eClass Hybrid Learning Management System is a comprehensive platform that seamlessly integrates traditional classroom teaching with online learning."
+    },
+    {
+      "Question_ID": 2,
+      "Questions": "How can eClass benefit me as a teacher?",
+      "Answers": "eClass empowers teachers by providing a centralized platform for course management, resource sharing, and communication. It simplifies administrative tasks and enhances collaboration with students."
+    },
+    {
+        "Question_ID": 3,
+        "Questions": "How does eClass enhance communication with students?",
+        "Answers": "eClass offers communication tools such as announcements, discussion forums, and messaging to foster better teacher-student interaction."
+      },
+      {
+        "Question_ID": 4,
+        "Questions": "How can I get support if I encounter issues with eClass?",
+        "Answers": "Our eClass system provides a dedicated support system from digitalEdu, including documentation, tutorials, and a helpdesk."
+      },
+      {
+        "Question_ID": 5,
+        "Questions": "Can I track attendance using your system?",
+        "Answers": "Yes you can  track attendance using our system. The system is integrated with an online attendance tracking system."
+      },
+      {
+        "Question_ID": 6,
+        "Questions": "How secure is the information stored on the eClass Hybrid Learning management system?",
+        "Answers": "Our eClass Hybrid Learning Management System prioritizes the security and privacy of user data. The platform employs encryption and authentication measures to protect information."
+      },
+      {
+        "Question_ID": 7,
+        "Questions": "Are live virtual classes available on eClass Hybrid Learning Management System?",
+        "Answers": "Yes, eClass Hybrid Learning Management System supports live virtual classes, allowing instructors to conduct real-time lectures, discussions, and interactive sessions. Students can join these sessions from the comfort of their own devices."
+      },
+      {
+        "Question_ID": 8,
+        "Questions": "Does the system provide mobile compatibility?",
+        "Answers": "Yes, Our eClass Hybrid Learning system provides mobile compatibility for better user experience."
+      }
+    ]
